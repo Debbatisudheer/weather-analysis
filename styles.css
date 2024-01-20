@@ -33,3 +33,8 @@ h1 {
 .social-icon:hover {
     color: #e7b43c; /* Change the color on hover */
 }
+/* Add this to your styles.css file */
+footer {
+    text-align: center;
+    color: black;
+}
